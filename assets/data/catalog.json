@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "100",
+      "name": "iPhone 13",
+      "description": "The iPhone 13 is an iPhone",
+      "price": "999",
+      "color": "#000000",
+      "image": "http://....."
+    },
+    {
+      "id": "101",
+      "name": "iPhone 13 Pro",
+      "description": "The iPhone 13 Pro is an iPhone",
+      "price": "9999",
+      "color": "#000000",
+      "image": "http://....."
+    },
+    {
+      "id": "102",
+      "name": "iPhone 13 Pro",
+      "description": "The iPhone 13 Pro is an iPhone",
+      "price": "9999",
+      "color": "#000000",
+      "image": "http://....."
+    },
+    {
+      "id": "103",
+      "name": "iPhone 13 Pro Max",
+      "description": "The iPhone 13 Pro Max is an iPhone",
+      "price": "9999",
+      "color": "#000000",
+      "image": "http://....."
+    },
+    {
+      "id": "104",
+      "name": "iPhone 14",
+      "description": "The iPhone 14 is an iPhone",
+      "price": "9999",
+      "color": "#000000",
+      "image": "http://....."
+    },
+    {
+      "id": "105",
+      "name": "iPhone 14 Pro",
+      "description": "The iPhone 14 Pro is an iPhone",
+      "price": "999",
+      "color": "#000000",
+      "image": "http://....."
+    },
+    {
+      "id": "106",
+      "name": "iPhone 14 Pro Max",
+      "description": "The iPhone 14 Pro Max is an iPhone",
+      "price": "9999",
+      "color": "#000000",
+      "image": "http://....."
+    },
+    {
+      "id": "107",
+      "name": "iPhone 12",
+      "description": "The iPhone 12 is an iPhone",
+      "price": "9999",
+      "color": "#000000",
+      "image": "http://....."
+    },
+    {
+      "id": "108",
+      "name": "iPhone 12 Pro Max",
+      "description": "The iPhone 12 Pro Max is an iPhone",
+      "price": "9999",
+      "color": "#000000",
+      "image": "http://....."
+    },
+    {
+      "id": "109",
+      "name": "iPhone 11",
+      "description": "The iPhone 11 is an iPhone",
+      "price": "9999",
+      "color": "#000000",
+      "image": "http://....."
+    }
+  ]
+}
